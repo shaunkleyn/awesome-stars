@@ -91,6 +91,7 @@
 
 ## bash 
 
+- [kevinlekiller/mkvrg](https://github.com/kevinlekiller/mkvrg) - Apply replaygain tags to matroska files without remuxing (gain is calculated using ffmpeg and tags are applied using mkvpropedit).
 - [Drazzilb08/userScripts](https://github.com/Drazzilb08/userScripts) - Collection of unRAID userscripts and other scripts around the internet that I find neat/useful
 - [masonr/PLEXiDRIVE](https://github.com/masonr/PLEXiDRIVE) - Scripts to facilitate the use of cloud storage (such as Google Drive) as storage for Plex media server
 
@@ -218,6 +219,7 @@
 
 ## others 
 
+- [Piklesh/auto-loudnorm](https://github.com/Piklesh/auto-loudnorm) - Command line interface for performing an automatic two-pass loudness normalization on FFmpeg loudnorm audio filter. 🔊✔️
 - [AnimMouse/ffmpeg-stable-autobuild](https://github.com/AnimMouse/ffmpeg-stable-autobuild) - Automated stable nonfree builds of FFmpeg for Windows using GitHub Actions
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [curif/awesome-piracy](https://github.com/curif/awesome-piracy) - A curated list of awesome warez and piracy links
