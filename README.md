@@ -109,6 +109,8 @@
 
 ## Python 
 
+- [kevinlekiller/mkvrg](https://github.com/kevinlekiller/mkvrg) - Apply replaygain tags to matroska files without remuxing (gain is calculated using ffmpeg and tags are applied using mkvpropedit).
+- [Piklesh/auto-loudnorm](https://github.com/Piklesh/auto-loudnorm) - Command line interface for performing an automatic two-pass loudness normalization on FFmpeg loudnorm audio filter. 🔊✔️
 - [InakiArzalluz/SurroundDownmix](https://github.com/InakiArzalluz/SurroundDownmix) - 
 - [sirk123au/ArrTools](https://github.com/sirk123au/ArrTools) - A collection of tools for Radarr, Sonarr & Lidarr
 - [justinebateman/sonarr-radarr-automate](https://github.com/justinebateman/sonarr-radarr-automate) - Custom scripts for Sonarr and Radarr grabs and post processing
