@@ -86,6 +86,7 @@
 
 ## Others 
 
+- [AnimMouse/ffmpeg-stable-autobuild](https://github.com/AnimMouse/ffmpeg-stable-autobuild) - Automated stable nonfree builds of FFmpeg for Windows using GitHub Actions
 - [curif/awesome-piracy](https://github.com/curif/awesome-piracy) - A curated list of awesome warez and piracy links
 - [djdembeck/music-workflow](https://github.com/djdembeck/music-workflow) - Workflow used to import, organize and match Music. MusicBrainz+Beets+Plex
 - [florib779/beets-config](https://github.com/florib779/beets-config) - My personal beets configuration to optimize the import into Roon. Still a work in process.
@@ -152,7 +153,6 @@
 
 ## Shell 
 
-- [AnimMouse/ffmpeg-stable-autobuild](https://github.com/AnimMouse/ffmpeg-stable-autobuild) - Automated stable nonfree builds of FFmpeg for Windows using GitHub Actions
 - [RandomNinjaAtk/docker-lidarr-extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - lidarr-extended :: Lidarr application packaged with multiple scripts to provide additional functionality
 - [Generator/tautulli2trakt](https://github.com/Generator/tautulli2trakt) - A companion script for Tautulli to automatically scrobble media to Trakt.tv
 - [masonr/PLEXiDRIVE](https://github.com/masonr/PLEXiDRIVE) - Scripts to facilitate the use of cloud storage (such as Google Drive) as storage for Plex media server
