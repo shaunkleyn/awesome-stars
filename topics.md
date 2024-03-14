@@ -92,7 +92,7 @@
 ## bash 
 
 - [kevinlekiller/mkvrg](https://github.com/kevinlekiller/mkvrg) - Apply replaygain tags to matroska files without remuxing (gain is calculated using ffmpeg and tags are applied using mkvpropedit).
-- [Drazzilb08/userScripts](https://github.com/Drazzilb08/userScripts) - Collection of unRAID userscripts and other scripts around the internet that I find neat/useful
+- [Drazzilb08/userScripts](https://github.com/Drazzilb08/userScripts) - A collection of useful scripts for media management automation
 - [masonr/PLEXiDRIVE](https://github.com/masonr/PLEXiDRIVE) - Scripts to facilitate the use of cloud storage (such as Google Drive) as storage for Plex media server
 
 ## csharp 
@@ -285,7 +285,7 @@
 
 - [TheGreatMcPain/python-media-scripts](https://github.com/TheGreatMcPain/python-media-scripts) - Python scripts I use for preparing BluRay videos for my media server. (mirror)
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
-- [Drazzilb08/userScripts](https://github.com/Drazzilb08/userScripts) - Collection of unRAID userscripts and other scripts around the internet that I find neat/useful
+- [Drazzilb08/userScripts](https://github.com/Drazzilb08/userScripts) - A collection of useful scripts for media management automation
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [TMD20/crossarr](https://github.com/TMD20/crossarr) - Cross Seed via Arr Programs
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
