@@ -120,7 +120,7 @@
 - [bzmw/mkvdts2ac3.py](https://github.com/bzmw/mkvdts2ac3.py) - python script for linux, windows or os x which can be used to convert the DTS in Matroska (MKV) files to AC3
 - [TheGreatMcPain/python-media-scripts](https://github.com/TheGreatMcPain/python-media-scripts) - Python scripts I use for preparing BluRay videos for my media server. (mirror)
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
-- [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management automation
+- [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [guludo/venv-run](https://github.com/guludo/venv-run) - Run commands using Python virtual environment
 - [meisnate12/PMM-TOP10](https://github.com/meisnate12/PMM-TOP10) - 
