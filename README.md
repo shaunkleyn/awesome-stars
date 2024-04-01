@@ -22,6 +22,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Visual Basic](#visual-basic)
 
 ## Batchfile 
 
@@ -165,6 +166,10 @@
 - [warrengalyen/shifty](https://github.com/warrengalyen/shifty) - Simple JavaScript Library to add parallax image effect to background-image
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
+
+## Visual Basic 
+
+- [thexmanxyz/network-share-reconnecter](https://github.com/thexmanxyz/network-share-reconnecter) - This project contains a VB script and a Windows scheduler task to automatically reconnect disconnected network shares / drives on login or resume.
 
 
 ## License
