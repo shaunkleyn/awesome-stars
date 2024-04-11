@@ -92,7 +92,7 @@
 - [djdembeck/music-workflow](https://github.com/djdembeck/music-workflow) - Workflow used to import, organize and match Music. MusicBrainz+Beets+Plex
 - [florib779/beets-config](https://github.com/florib779/beets-config) - My personal beets configuration to optimize the import into Roon. Still a work in process.
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [toomuchio/plex-nginx-reverseproxy](https://github.com/toomuchio/plex-nginx-reverseproxy) - Configuration to serve Plex Media Center https://plex.tv using Nginx https://nginx.com
 
 ## PHP 
