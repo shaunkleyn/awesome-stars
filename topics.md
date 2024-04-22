@@ -234,7 +234,7 @@
 - [djdembeck/music-workflow](https://github.com/djdembeck/music-workflow) - Workflow used to import, organize and match Music. MusicBrainz+Beets+Plex
 - [florib779/beets-config](https://github.com/florib779/beets-config) - My personal beets configuration to optimize the import into Roon. Still a work in process.
 - [meisnate12/PMM-TOP10](https://github.com/meisnate12/PMM-TOP10) - 
-- [meisnate12/Plex-Image-Cleanup](https://github.com/meisnate12/Plex-Image-Cleanup) - Python 3 Script for Cleaning Up Images in Plex
+- [Kometa-Team/ImageMaid](https://github.com/Kometa-Team/ImageMaid) - Python 3 Script for Cleaning Up Images in Plex
 - [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Plex Meta Manager helper script for a chronological Returning Soon collection with dates.
 - [desatur8/PlexScripts](https://github.com/desatur8/PlexScripts) - Collection of Plex Scripts
 - [Splendead-Goose/PlexScripts](https://github.com/Splendead-Goose/PlexScripts) - Collection of Scripts for Plex
