@@ -31,6 +31,7 @@
 
 ## C# # 
 
+- [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
 - [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
 - [dotnetjunkie/solidservices](https://github.com/dotnetjunkie/solidservices) - Reference architecture application for .NET that demonstrates how to build highly maintainable web services.
 - [CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - The main repository for all the Code Maze guides
