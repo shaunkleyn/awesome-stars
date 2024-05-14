@@ -17,6 +17,7 @@
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -121,6 +122,10 @@
 - [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
+
+## dotfiles 
+
+- [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 
 ## dotnet 
 
