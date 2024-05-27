@@ -225,6 +225,7 @@
 
 ## others 
 
+- [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
 - [thexmanxyz/network-share-reconnecter](https://github.com/thexmanxyz/network-share-reconnecter) - This project contains a VB script and a Windows scheduler task to automatically reconnect disconnected network shares / drives on login or resume.
 - [Piklesh/auto-loudnorm](https://github.com/Piklesh/auto-loudnorm) - Command line interface for performing an automatic two-pass loudness normalization on FFmpeg loudnorm audio filter. 🔊✔️
 - [AnimMouse/ffmpeg-stable-autobuild](https://github.com/AnimMouse/ffmpeg-stable-autobuild) - Automated stable nonfree builds of FFmpeg for Windows using GitHub Actions
