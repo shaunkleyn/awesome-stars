@@ -21,6 +21,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Visual Basic](#visual-basic)
 
@@ -159,6 +160,10 @@
 - [Generator/tautulli2trakt](https://github.com/Generator/tautulli2trakt) - A companion script for Tautulli to automatically scrobble media to Trakt.tv
 - [masonr/PLEXiDRIVE](https://github.com/masonr/PLEXiDRIVE) - Scripts to facilitate the use of cloud storage (such as Google Drive) as storage for Plex media server
 - [ultimate-pms/ultimate-media-server-core](https://github.com/ultimate-pms/ultimate-media-server-core) - A bunch of scripts that I've collected, written, and forked for the ultimate administration & automation of your Media Server - Think of this as your "Media server in a box"
+
+## Swift 
+
+- [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
 
 ## TypeScript 
 
