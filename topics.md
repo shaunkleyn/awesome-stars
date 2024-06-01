@@ -225,6 +225,7 @@
 
 ## others 
 
+- [ajmandourah/autorefresh](https://github.com/ajmandourah/autorefresh) - Plex autorefresh is a tool which can be triggered to forcefully refresh a certain content metadata.
 - [RoadToDream/SzContext](https://github.com/RoadToDream/SzContext) - Add context menu to macOS Finder
 - [thexmanxyz/network-share-reconnecter](https://github.com/thexmanxyz/network-share-reconnecter) - This project contains a VB script and a Windows scheduler task to automatically reconnect disconnected network shares / drives on login or resume.
 - [Piklesh/auto-loudnorm](https://github.com/Piklesh/auto-loudnorm) - Command line interface for performing an automatic two-pass loudness normalization on FFmpeg loudnorm audio filter. 🔊✔️
