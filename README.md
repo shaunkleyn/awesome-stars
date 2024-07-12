@@ -103,6 +103,7 @@
 
 ## PowerShell 
 
+- [reinistihovs/Hibernate-Unplugged-Closed-Laptop](https://github.com/reinistihovs/Hibernate-Unplugged-Closed-Laptop) - Powershell script to automatically hibernate Windows if the lid is already closed and laptop still running and power cable gets disconected.
 - [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 - [Splendead-Goose/PlexScripts](https://github.com/Splendead-Goose/PlexScripts) - Collection of Scripts for Plex
 - [CJPCNZ/CustomPush](https://github.com/CJPCNZ/CustomPush) - Custom Push Notifications for Sonarr, Radarr and Lidarr
@@ -113,6 +114,7 @@
 
 ## Python 
 
+- [MikhaelMounay/hibernate-when-unplugged](https://github.com/MikhaelMounay/hibernate-when-unplugged) - An adjustable Python script to hibernate the laptop after a specified duration of unplugging its charger.
 - [ajmandourah/autorefresh](https://github.com/ajmandourah/autorefresh) - Plex autorefresh is a tool which can be triggered to forcefully refresh a certain content metadata.
 - [kevinlekiller/mkvrg](https://github.com/kevinlekiller/mkvrg) - Apply replaygain tags to matroska files without remuxing (gain is calculated using ffmpeg and tags are applied using mkvpropedit).
 - [Piklesh/auto-loudnorm](https://github.com/Piklesh/auto-loudnorm) - Command line interface for performing an automatic two-pass loudness normalization on FFmpeg loudnorm audio filter. 🔊✔️
