@@ -225,6 +225,7 @@
 
 ## others 
 
+- [lbrunau/jquery.lazytable](https://github.com/lbrunau/jquery.lazytable) - jquery-powered HTML table for large number of table rows
 - [MikhaelMounay/hibernate-when-unplugged](https://github.com/MikhaelMounay/hibernate-when-unplugged) - An adjustable Python script to hibernate the laptop after a specified duration of unplugging its charger.
 - [reinistihovs/Hibernate-Unplugged-Closed-Laptop](https://github.com/reinistihovs/Hibernate-Unplugged-Closed-Laptop) - Powershell script to automatically hibernate Windows if the lid is already closed and laptop still running and power cable gets disconected.
 - [ajmandourah/autorefresh](https://github.com/ajmandourah/autorefresh) - Plex autorefresh is a tool which can be triggered to forcefully refresh a certain content metadata.
