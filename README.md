@@ -161,6 +161,7 @@
 
 ## Shell 
 
+- [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) - Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [RandomNinjaAtk/docker-lidarr-extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - lidarr-extended :: Lidarr application packaged with multiple scripts to provide additional functionality
 - [Generator/tautulli2trakt](https://github.com/Generator/tautulli2trakt) - A companion script for Tautulli to automatically scrobble media to Trakt.tv
 - [masonr/PLEXiDRIVE](https://github.com/masonr/PLEXiDRIVE) - Scripts to facilitate the use of cloud storage (such as Google Drive) as storage for Plex media server
