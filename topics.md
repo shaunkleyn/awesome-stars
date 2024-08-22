@@ -65,6 +65,7 @@
 
 ## android 
 
+- [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) - Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 
 ## api 
