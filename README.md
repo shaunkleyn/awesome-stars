@@ -60,6 +60,7 @@
 
 ## HTML 
 
+- [stephband/jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [pballasiotes/pureParallax](https://github.com/pballasiotes/pureParallax) - A vanilla JS parallax plugin for parallaxing elements and backgrounds with easy implementation and extensive options.
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
