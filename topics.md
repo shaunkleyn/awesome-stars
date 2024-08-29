@@ -226,6 +226,7 @@
 
 ## others 
 
+- [stephband/jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect
 - [sb-ocr/miniature-retro-pc](https://github.com/sb-ocr/miniature-retro-pc) - A nostalgic tiny retro PC
 - [lbrunau/jquery.lazytable](https://github.com/lbrunau/jquery.lazytable) - jquery-powered HTML table for large number of table rows
 - [MikhaelMounay/hibernate-when-unplugged](https://github.com/MikhaelMounay/hibernate-when-unplugged) - An adjustable Python script to hibernate the laptop after a specified duration of unplugging its charger.
