@@ -276,7 +276,7 @@
 - [npocmaka/batch.scripts](https://github.com/npocmaka/batch.scripts) - batch script utils and examples by npocmaka -
 - [themewagon/patrix](https://github.com/themewagon/patrix) - 
 - [johnkiddjr/PlexMatch-File-Generator](https://github.com/johnkiddjr/PlexMatch-File-Generator) - This application generates a .plexmatch file in the directory of all shows and movies added to your Plex Server. This is especially useful for migrating storage devices if you have some shows that nee
-- [joshbtn/excelFormulaUtilitiesJS](https://github.com/joshbtn/excelFormulaUtilitiesJS) - Based on ewbi's go calc excel formula parser http://ewbi.blogs.com/develops/popular/excelformulaparsing.html. This library contains methods to beautify an excel formula.  This library also contains fu
+- [joshbtn/excelFormulaUtilitiesJS](https://github.com/joshbtn/excelFormulaUtilitiesJS) - This library contains methods to beautify an excel formula.  This library also contains functions to convert an excel formula to JavaScript (ECMAScript) or C# and python.
 - [vinci1it2000/formulas](https://github.com/vinci1it2000/formulas) - Excel formulas interpreter in Python.
 - [andrewramsay/ical_to_gcal_sync](https://github.com/andrewramsay/ical_to_gcal_sync) - Basic Python script to pull events from an iCal feed and push to Google Calendar
 - [toomuchio/plex-nginx-reverseproxy](https://github.com/toomuchio/plex-nginx-reverseproxy) - Configuration to serve Plex Media Center https://plex.tv using Nginx https://nginx.com
