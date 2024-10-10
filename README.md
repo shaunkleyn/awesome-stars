@@ -81,7 +81,7 @@
 - [mycreatesite/Textyle.js](https://github.com/mycreatesite/Textyle.js) - A simple text effect with jQuery.
 - [okcoker/jquery-airport](https://github.com/okcoker/jquery-airport) - Airport is a rather simple text effect plugin for Jquery. It emulates the style of those flickering information boards you sometimes find on airports and train stations.
 - [themewagon/patrix](https://github.com/themewagon/patrix) - 
-- [joshbtn/excelFormulaUtilitiesJS](https://github.com/joshbtn/excelFormulaUtilitiesJS) - Based on ewbi's go calc excel formula parser http://ewbi.blogs.com/develops/popular/excelformulaparsing.html. This library contains methods to beautify an excel formula.  This library also contains fu
+- [joshbtn/excelFormulaUtilitiesJS](https://github.com/joshbtn/excelFormulaUtilitiesJS) - This library contains methods to beautify an excel formula.  This library also contains functions to convert an excel formula to JavaScript (ECMAScript) or C# and python.
 - [bezkoder/react-crud-web-api](https://github.com/bezkoder/react-crud-web-api) - React.js CRUD example to consume Web API
 - [mtallentb/react_inventory_manager](https://github.com/mtallentb/react_inventory_manager) - Inventory Management System built with React, Redux and Rails API
 
