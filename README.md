@@ -56,7 +56,7 @@
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
 - [Notifiarr/toolbarr](https://github.com/Notifiarr/toolbarr) - Starr Toolbarr
 - [hrenard/cleanarr](https://github.com/hrenard/cleanarr) - A small utility tasked to automatically clean radarr and sonarr files over time
-- [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and replace the files via sonarr and radarr
+- [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and optionally replaces the files via sonarr and radarr
 
 ## HTML 
 
