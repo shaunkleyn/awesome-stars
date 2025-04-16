@@ -54,6 +54,7 @@
 - [software](#software)
 - [svelte](#svelte)
 - [typescript](#typescript)
+- [ui-design](#ui-design)
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
@@ -356,6 +357,10 @@
 ## typescript 
 
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
+
+## ui-design 
+
+- [khang-nd/7.css](https://github.com/khang-nd/7.css) - A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI.
 
 ## vim 
 
