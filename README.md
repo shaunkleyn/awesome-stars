@@ -40,7 +40,7 @@
 - [darkalfx/requestrr](https://github.com/darkalfx/requestrr) - Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for 
 - [johnkiddjr/PlexMatch-File-Generator](https://github.com/johnkiddjr/PlexMatch-File-Generator) - This application generates a .plexmatch file in the directory of all shows and movies added to your Plex Server. This is especially useful for migrating storage devices if you have some shows that nee
 - [PlexRipper/PlexRipper](https://github.com/PlexRipper/PlexRipper) - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own!
-- [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin
+- [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 - [exceptionnotfound/DataNamesMappingDemo](https://github.com/exceptionnotfound/DataNamesMappingDemo) - 
 
 ## CSS 
