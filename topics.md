@@ -180,6 +180,7 @@
 
 ## html 
 
+- [brberis/dev-connect-portfolio-sharing](https://github.com/brberis/dev-connect-portfolio-sharing) - Social media platform designed specifically for developers.  Allowing users to create and share their portfolios, comment, and connect with other professionals.
 - [khang-nd/7.css](https://github.com/khang-nd/7.css) - A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI.
 
 ## ios 
@@ -188,6 +189,7 @@
 
 ## javascript 
 
+- [brberis/dev-connect-portfolio-sharing](https://github.com/brberis/dev-connect-portfolio-sharing) - Social media platform designed specifically for developers.  Allowing users to create and share their portfolios, comment, and connect with other professionals.
 - [minimax711/miniparallax](https://github.com/minimax711/miniparallax) - lightweight parallax effect without dependencies
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [MAGGIx1404/Textify-js](https://github.com/MAGGIx1404/Textify-js) - Next Generation Text Animation Library. (Adding Typescript support...)
