@@ -235,6 +235,7 @@
 
 ## others 
 
+- [nothing2obvi/mkv_track_optimizer](https://github.com/nothing2obvi/mkv_track_optimizer) - Customizable MKV audio and subtitle track selection with dry-run and full-run modes, comprehensive logging, and the ability to skip previously processed files on subsequent runs.
 - [socalccna54/oneplus13](https://github.com/socalccna54/oneplus13) - Debloat List
 - [stephband/jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect
 - [sb-ocr/miniature-retro-pc](https://github.com/sb-ocr/miniature-retro-pc) - A nostalgic tiny retro PC
