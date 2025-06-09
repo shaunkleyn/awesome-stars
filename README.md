@@ -121,6 +121,7 @@
 
 ## Python 
 
+- [nothing2obvi/mkv_track_optimizer](https://github.com/nothing2obvi/mkv_track_optimizer) - Customizable MKV audio and subtitle track selection with dry-run and full-run modes, comprehensive logging, and the ability to skip previously processed files on subsequent runs.
 - [MikhaelMounay/hibernate-when-unplugged](https://github.com/MikhaelMounay/hibernate-when-unplugged) - An adjustable Python script to hibernate the laptop after a specified duration of unplugging its charger.
 - [ajmandourah/autorefresh](https://github.com/ajmandourah/autorefresh) - Plex autorefresh is a tool which can be triggered to forcefully refresh a certain content metadata.
 - [kevinlekiller/mkvrg](https://github.com/kevinlekiller/mkvrg) - Apply replaygain tags to matroska files without remuxing (gain is calculated using ffmpeg and tags are applied using mkvpropedit).
