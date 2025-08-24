@@ -176,7 +176,7 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
-- [PlexRipper/PlexRipper](https://github.com/PlexRipper/PlexRipper) - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own!
+- [Reaparr/Reaparr](https://github.com/Reaparr/Reaparr) - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own!
 - [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez) - All your base are belong to us!
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 
@@ -379,7 +379,7 @@
 
 ## vue 
 
-- [PlexRipper/PlexRipper](https://github.com/PlexRipper/PlexRipper) - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own!
+- [Reaparr/Reaparr](https://github.com/Reaparr/Reaparr) - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own!
 
 ## web 
 
