@@ -99,6 +99,7 @@
 
 ## Others 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [socalccna54/oneplus13](https://github.com/socalccna54/oneplus13) - Debloat List
 - [sb-ocr/miniature-retro-pc](https://github.com/sb-ocr/miniature-retro-pc) - A nostalgic tiny retro PC
 - [AnimMouse/ffmpeg-stable-autobuild](https://github.com/AnimMouse/ffmpeg-stable-autobuild) - Automated stable nonfree builds of FFmpeg for Windows using GitHub Actions
