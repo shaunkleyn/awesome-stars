@@ -117,7 +117,7 @@
 ## PowerShell 
 
 - [reinistihovs/Hibernate-Unplugged-Closed-Laptop](https://github.com/reinistihovs/Hibernate-Unplugged-Closed-Laptop) - Powershell script to automatically hibernate Windows if the lid is already closed and laptop still running and power cable gets disconected.
-- [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
+- [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 - [Splendead-Goose/PlexScripts](https://github.com/Splendead-Goose/PlexScripts) - Collection of Scripts for Plex
 - [CJPCNZ/CustomPush](https://github.com/CJPCNZ/CustomPush) - Custom Push Notifications for Sonarr, Radarr and Lidarr
 
