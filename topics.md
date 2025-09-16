@@ -128,13 +128,13 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
-- [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
+- [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
 
 ## dotfiles 
 
-- [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
+- [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 
 ## dotnet 
 
@@ -155,7 +155,7 @@
 
 ## git 
 
-- [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
+- [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 
 ## github 
 
@@ -311,7 +311,7 @@
 
 ## powershell 
 
-- [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
+- [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 
 ## privacy 
 
@@ -383,7 +383,7 @@
 
 ## vim 
 
-- [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
+- [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 
 ## vue 
 
@@ -401,7 +401,7 @@
 ## windows 
 
 - [SamsidParty/TopNotify](https://github.com/SamsidParty/TopNotify) - The Ultimate Notification Customization Tool For Windows
-- [JMOrbegoso/Dotfiles-for-Windows-11](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
+- [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 
 
 ## License
