@@ -43,6 +43,7 @@
 - [node](#node)
 - [open-source](#open-source)
 - [others](#others)
+- [portfolio-website](#portfolio-website)
 - [powershell](#powershell)
 - [privacy](#privacy)
 - [programming](#programming)
@@ -315,6 +316,11 @@
 - [CJPCNZ/CustomPush](https://github.com/CJPCNZ/CustomPush) - Custom Push Notifications for Sonarr, Radarr and Lidarr
 - [mtallentb/react_inventory_manager](https://github.com/mtallentb/react_inventory_manager) - Inventory Management System built with React, Redux and Rails API
 - [exceptionnotfound/DataNamesMappingDemo](https://github.com/exceptionnotfound/DataNamesMappingDemo) - 
+
+## portfolio-website 
+
+- [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
+- [naveenjujaray/DeveloperFolio](https://github.com/naveenjujaray/DeveloperFolio) - Flutter web - DeveloperFolio template
 
 ## powershell 
 
