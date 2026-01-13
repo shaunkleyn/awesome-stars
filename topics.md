@@ -59,6 +59,7 @@
 - [svelte](#svelte)
 - [typescript](#typescript)
 - [ui-design](#ui-design)
+- [video](#video)
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
@@ -301,7 +302,6 @@
 - [SickGear/SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
 - [RiffSphere/Collectarr](https://github.com/RiffSphere/Collectarr) - 
 - [hrenard/cleanarr](https://github.com/hrenard/cleanarr) - A small utility tasked to automatically clean radarr and sonarr files over time
-- [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and optionally replaces the files via sonarr and radarr
 - [npocmaka/batch.scripts](https://github.com/npocmaka/batch.scripts) - batch script utils and examples by npocmaka -
 - [themewagon/patrix](https://github.com/themewagon/patrix) - 
 - [johnkiddjr/PlexMatch-File-Generator](https://github.com/johnkiddjr/PlexMatch-File-Generator) - This application generates a .plexmatch file in the directory of all shows and movies added to your Plex Server. This is especially useful for migrating storage devices if you have some shows that nee
@@ -394,6 +394,11 @@
 ## ui-design 
 
 - [khang-nd/7.css](https://github.com/khang-nd/7.css) - A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI.
+
+## video 
+
+- [aetaric/checkrr](https://github.com/aetaric/checkrr) - Checkrr Scans your library files for corrupt media and optionally replaces the files via sonarr and radarr
+- [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 
 ## vim 
 
