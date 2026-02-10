@@ -134,7 +134,7 @@
 - [samtomcom/arr_post_process](https://github.com/samtomcom/arr_post_process) - Template for a Python Custom Script for Sonarr/Radarr
 - [jd4883/sonarr-genre-tagger](https://github.com/jd4883/sonarr-genre-tagger) - A simple script that queries sonarr's API for genre info. It also picks up an offline copy of anidb's database and queries both and aggregates the two together. It parses this tag information, support
 - [bzmw/mkvdts2ac3.py](https://github.com/bzmw/mkvdts2ac3.py) - python script for linux, windows or os x which can be used to convert the DTS in Matroska (MKV) files to AC3
-- [TheGreatMcPain/python-media-scripts](https://github.com/TheGreatMcPain/python-media-scripts) - Python scripts I use for preparing BluRay videos for my media server. (mirror)
+- [TheGreatMcPain/McPainMKV](https://github.com/TheGreatMcPain/McPainMKV) - Python scripts I use for preparing BluRay videos for my media server. (mirror)
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
 - [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
