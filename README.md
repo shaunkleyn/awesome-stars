@@ -46,6 +46,7 @@
 
 ## CSS 
 
+- [amplifiedhq/fa-pro](https://github.com/amplifiedhq/fa-pro) - 📦 Font awesome pro icon library and toolkit
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 
 ## Dart 
@@ -95,6 +96,7 @@
 
 ## Others 
 
+- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro icons for free (for educational purpose only)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [socalccna54/oneplus13](https://github.com/socalccna54/oneplus13) - Debloat List
 - [sb-ocr/miniature-retro-pc](https://github.com/sb-ocr/miniature-retro-pc) - A nostalgic tiny retro PC
