@@ -23,6 +23,7 @@
 - [electron](#electron)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
+- [font](#font)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -64,6 +65,7 @@
 - [vim](#vim)
 - [vue](#vue)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [windows](#windows)
 
@@ -162,6 +164,10 @@
 
 - [naveenjujaray/DeveloperFolio](https://github.com/naveenjujaray/DeveloperFolio) - Flutter web - DeveloperFolio template
 
+## font 
+
+- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro icons for free (for educational purpose only)
+
 ## git 
 
 - [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
@@ -254,6 +260,7 @@
 
 ## others 
 
+- [amplifiedhq/fa-pro](https://github.com/amplifiedhq/fa-pro) - 📦 Font awesome pro icon library and toolkit
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [mrusme/overpush](https://github.com/mrusme/overpush) - A self-hosted, drop-in replacement for Pushover (https://codeberg.org/mrus/overpush)
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
@@ -419,6 +426,10 @@
 
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
+
+## web-development 
+
+- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro icons for free (for educational purpose only)
 
 ## webapp 
 
