@@ -263,7 +263,7 @@
 - [amplifiedhq/fa-pro](https://github.com/amplifiedhq/fa-pro) - 📦 Font awesome pro icon library and toolkit
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [mrusme/overpush](https://github.com/mrusme/overpush) - A self-hosted, drop-in replacement for Pushover (https://codeberg.org/mrus/overpush)
-- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
+- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
 - [LukasParke/plexjs](https://github.com/LukasParke/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [socalccna54/oneplus13](https://github.com/socalccna54/oneplus13) - Debloat List
 - [stephband/jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect
