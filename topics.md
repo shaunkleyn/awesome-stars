@@ -289,7 +289,7 @@
 - [florib779/beets-config](https://github.com/florib779/beets-config) - My personal beets configuration to optimize the import into Roon. Still a work in process.
 - [meisnate12/PMM-TOP10](https://github.com/meisnate12/PMM-TOP10) - 
 - [Kometa-Team/ImageMaid](https://github.com/Kometa-Team/ImageMaid) - Python 3 Script for Cleaning Up Images in Plex
-- [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Plex Meta Manager helper script for a chronological Returning Soon collection with dates.
+- [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Kometa helper script for a chronological Returning Soon collection with dates.
 - [desatur8/PlexScripts](https://github.com/desatur8/PlexScripts) - Collection of Plex Scripts
 - [Splendead-Goose/PlexScripts](https://github.com/Splendead-Goose/PlexScripts) - Collection of Scripts for Plex
 - [dotnetjunkie/solidservices](https://github.com/dotnetjunkie/solidservices) - Reference architecture application for .NET that demonstrates how to build highly maintainable web services.
