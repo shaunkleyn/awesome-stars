@@ -143,7 +143,7 @@
 - [guludo/venv-run](https://github.com/guludo/venv-run) - Run commands using Python virtual environment
 - [meisnate12/PMM-TOP10](https://github.com/meisnate12/PMM-TOP10) - 
 - [Kometa-Team/ImageMaid](https://github.com/Kometa-Team/ImageMaid) - Python 3 Script for Cleaning Up Images in Plex
-- [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Plex Meta Manager helper script for a chronological Returning Soon collection with dates.
+- [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Kometa helper script for a chronological Returning Soon collection with dates.
 - [desatur8/PlexScripts](https://github.com/desatur8/PlexScripts) - Collection of Plex Scripts
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [syncarr/syncarr](https://github.com/syncarr/syncarr) - one/two way sync of Radarr, Sonarr, or Lidarr instances
