@@ -13,6 +13,7 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -93,6 +94,10 @@
 ## Makefile 
 
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
+
+## Markdown 
+
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 
 ## Others 
 
