@@ -59,6 +59,7 @@
 - [software](#software)
 - [statistics](#statistics)
 - [svelte](#svelte)
+- [tailwindcss](#tailwindcss)
 - [typescript](#typescript)
 - [ui-design](#ui-design)
 - [video](#video)
@@ -121,6 +122,7 @@
 
 ## css 
 
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [khang-nd/7.css](https://github.com/khang-nd/7.css) - A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI.
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 - [MAGGIx1404/Textify-js](https://github.com/MAGGIx1404/Textify-js) - Next Generation Text Animation Library. (Adding Typescript support...)
@@ -214,6 +216,7 @@
 
 ## javascript 
 
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [brberis/dev-connect-portfolio-sharing](https://github.com/brberis/dev-connect-portfolio-sharing) - Social media platform designed specifically for developers.  Allowing users to create and share their portfolios, comment, and connect with other professionals.
 - [minimax711/miniparallax](https://github.com/minimax711/miniparallax) - lightweight parallax effect without dependencies
 - [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
@@ -247,6 +250,7 @@
 
 ## nextjs 
 
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
 
@@ -329,6 +333,7 @@
 
 ## portfolio-website 
 
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
 - [naveenjujaray/DeveloperFolio](https://github.com/naveenjujaray/DeveloperFolio) - Flutter web - DeveloperFolio template
 
@@ -360,12 +365,14 @@
 
 ## react 
 
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
 - [bezkoder/react-crud-web-api](https://github.com/bezkoder/react-crud-web-api) - React.js CRUD example to consume Web API
 
 ## reactjs 
 
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [bezkoder/react-crud-web-api](https://github.com/bezkoder/react-crud-web-api) - React.js CRUD example to consume Web API
 
 ## rust 
@@ -401,8 +408,13 @@
 
 - [Notifiarr/toolbarr](https://github.com/Notifiarr/toolbarr) - Starr Toolbarr
 
+## tailwindcss 
+
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
+
 ## typescript 
 
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
 
 ## ui-design 
