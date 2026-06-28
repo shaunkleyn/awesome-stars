@@ -125,6 +125,7 @@
 
 ## PowerShell 
 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [reinistihovs/Hibernate-Unplugged-Closed-Laptop](https://github.com/reinistihovs/Hibernate-Unplugged-Closed-Laptop) - Powershell script to automatically hibernate Windows if the lid is already closed and laptop still running and power cable gets disconected.
 - [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 - [Splendead-Goose/PlexScripts](https://github.com/Splendead-Goose/PlexScripts) - Collection of Scripts for Plex
