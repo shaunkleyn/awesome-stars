@@ -71,7 +71,6 @@
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [pballasiotes/pureParallax](https://github.com/pballasiotes/pureParallax) - A vanilla JS parallax plugin for parallaxing elements and backgrounds with easy implementation and extensive options.
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
-- [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
 - [lkrjangid1/Awesome-Warez](https://github.com/lkrjangid1/Awesome-Warez) - All your base are belong to us!
 
 ## Java 
@@ -92,6 +91,7 @@
 - [jschr/textillate](https://github.com/jschr/textillate) - A jquery plugin for CSS3 text animations.
 - [mycreatesite/Textyle.js](https://github.com/mycreatesite/Textyle.js) - A simple text effect with jQuery.
 - [okcoker/jquery-airport](https://github.com/okcoker/jquery-airport) - Airport is a rather simple text effect plugin for Jquery. It emulates the style of those flickering information boards you sometimes find on airports and train stations.
+- [petersem/posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
 - [themewagon/patrix](https://github.com/themewagon/patrix) - 
 - [joshbtn/excelFormulaUtilitiesJS](https://github.com/joshbtn/excelFormulaUtilitiesJS) - This library contains methods to beautify an excel formula.  This library also contains functions to convert an excel formula to JavaScript (ECMAScript) or C# and python.
 - [bezkoder/react-crud-web-api](https://github.com/bezkoder/react-crud-web-api) - React.js CRUD example to consume Web API
