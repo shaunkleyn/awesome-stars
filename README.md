@@ -151,7 +151,7 @@
 - [TheGreatMcPain/McPainMKV](https://github.com/TheGreatMcPain/McPainMKV) - Python scripts I use for preparing BluRay videos for my media server. (mirror)
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
-- [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
+- [TitleCardMaker/TitleCardMaker](https://github.com/TitleCardMaker/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [guludo/venv-run](https://github.com/guludo/venv-run) - Run commands using Python virtual environment
 - [meisnate12/PMM-TOP10](https://github.com/meisnate12/PMM-TOP10) - 
 - [Kometa-Team/ImageMaid](https://github.com/Kometa-Team/ImageMaid) - Python 3 Script for Cleaning Up Images in Plex
