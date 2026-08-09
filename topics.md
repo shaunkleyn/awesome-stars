@@ -146,7 +146,7 @@
 
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
+- [TitleCardMaker/TitleCardMaker](https://github.com/TitleCardMaker/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [JuanOrbegoso/Dotfiles-for-Windows-11](https://github.com/JuanOrbegoso/Dotfiles-for-Windows-11) - Dotfiles script to setup a development environment in Microsoft Windows 11.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Unpackerr/unpackerr](https://github.com/Unpackerr/unpackerr) - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import
@@ -366,7 +366,7 @@
 - [TheGreatMcPain/McPainMKV](https://github.com/TheGreatMcPain/McPainMKV) - Python scripts I use for preparing BluRay videos for my media server. (mirror)
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation
-- [CollinHeist/TitleCardMaker](https://github.com/CollinHeist/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
+- [TitleCardMaker/TitleCardMaker](https://github.com/TitleCardMaker/TitleCardMaker) - Automated title card maker for Plex, Jellyfin, and Emby
 - [TMD20/crossarr](https://github.com/TMD20/crossarr) - Cross Seed via Arr Programs
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
 - [Colin-b/pyxelrest](https://github.com/Colin-b/pyxelrest) - Query REST APIs using Microsoft Excel User Defined Functions, VBA or Python functions
