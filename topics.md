@@ -46,6 +46,7 @@
 - [node](#node)
 - [open-source](#open-source)
 - [others](#others)
+- [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -340,6 +341,12 @@
 - [CJPCNZ/CustomPush](https://github.com/CJPCNZ/CustomPush) - Custom Push Notifications for Sonarr, Radarr and Lidarr
 - [mtallentb/react_inventory_manager](https://github.com/mtallentb/react_inventory_manager) - Inventory Management System built with React, Redux and Rails API
 - [exceptionnotfound/DataNamesMappingDemo](https://github.com/exceptionnotfound/DataNamesMappingDemo) - 
+
+## portfolio 
+
+- [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
+- [harshgoel05/another-portfolio](https://github.com/harshgoel05/another-portfolio) - An eye-catching developer Portfolio, Built on NextJS.
+- [naveenjujaray/DeveloperFolio](https://github.com/naveenjujaray/DeveloperFolio) - Flutter web - DeveloperFolio template
 
 ## portfolio-website 
 
