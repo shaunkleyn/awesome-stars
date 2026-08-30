@@ -67,6 +67,7 @@
 
 ## HTML 
 
+- [RhysFox/webfonts](https://github.com/RhysFox/webfonts) - 
 - [stephband/jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [pballasiotes/pureParallax](https://github.com/pballasiotes/pureParallax) - A vanilla JS parallax plugin for parallaxing elements and backgrounds with easy implementation and extensive options.
@@ -80,6 +81,7 @@
 
 ## JavaScript 
 
+- [a35hie/Fonts](https://github.com/a35hie/Fonts) - A collection of hosted web fonts and stylesheets.
 - [brberis/dev-connect-portfolio-sharing](https://github.com/brberis/dev-connect-portfolio-sharing) - Social media platform designed specifically for developers.  Allowing users to create and share their portfolios, comment, and connect with other professionals.
 - [lbrunau/jquery.lazytable](https://github.com/lbrunau/jquery.lazytable) - jquery-powered HTML table for large number of table rows
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
