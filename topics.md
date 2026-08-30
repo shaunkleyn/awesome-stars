@@ -275,6 +275,8 @@
 
 ## others 
 
+- [RhysFox/webfonts](https://github.com/RhysFox/webfonts) - 
+- [a35hie/Fonts](https://github.com/a35hie/Fonts) - A collection of hosted web fonts and stylesheets.
 - [amplifiedhq/fa-pro](https://github.com/amplifiedhq/fa-pro) - 📦 Font awesome pro icon library and toolkit
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [mrusme/overpush](https://github.com/mrusme/overpush) - A self-hosted, drop-in replacement for Pushover (https://tty.fail/mrus/overpush)
