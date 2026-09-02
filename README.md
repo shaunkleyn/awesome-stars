@@ -109,7 +109,6 @@
 
 ## Others 
 
-- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro icons for free (for educational purpose only)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [socalccna54/oneplus13](https://github.com/socalccna54/oneplus13) - Debloat List
 - [sb-ocr/miniature-retro-pc](https://github.com/sb-ocr/miniature-retro-pc) - A nostalgic tiny retro PC
@@ -139,6 +138,7 @@
 
 ## Python 
 
+- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro/Pro+ icons for free (for educational purpose only)
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [MikhaelMounay/hibernate-when-unplugged](https://github.com/MikhaelMounay/hibernate-when-unplugged) - An adjustable Python script to hibernate the laptop after a specified duration of unplugging its charger.
 - [ajmandourah/autorefresh](https://github.com/ajmandourah/autorefresh) - Plex autorefresh is a tool which can be triggered to forcefully refresh a certain content metadata.
