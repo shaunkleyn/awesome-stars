@@ -175,7 +175,7 @@
 
 ## font 
 
-- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro icons for free (for educational purpose only)
+- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro/Pro+ icons for free (for educational purpose only)
 
 ## git 
 
@@ -463,7 +463,7 @@
 
 ## web-development 
 
-- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro icons for free (for educational purpose only)
+- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro/Pro+ icons for free (for educational purpose only)
 
 ## webapp 
 
