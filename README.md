@@ -138,7 +138,6 @@
 
 ## Python 
 
-- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro/Pro+ icons for free (for educational purpose only)
 - [timsutton/brigadier](https://github.com/timsutton/brigadier) - Fetch and install Boot Camp ESDs with ease.
 - [MikhaelMounay/hibernate-when-unplugged](https://github.com/MikhaelMounay/hibernate-when-unplugged) - An adjustable Python script to hibernate the laptop after a specified duration of unplugging its charger.
 - [ajmandourah/autorefresh](https://github.com/ajmandourah/autorefresh) - Plex autorefresh is a tool which can be triggered to forcefully refresh a certain content metadata.
@@ -185,6 +184,7 @@
 
 ## Shell 
 
+- [RealNath/Font-Awesome-Pro-Free](https://github.com/RealNath/Font-Awesome-Pro-Free) - Download and obtain the latest Font Awesome Pro/Pro+ icons for free (for educational purpose only)
 - [DesktopECHO/Pi-hole-for-Android](https://github.com/DesktopECHO/Pi-hole-for-Android) - Pi-hole/Unbound Raspbian APK Installer for Android 5.0+ devices (requires root)
 - [RandomNinjaAtk/docker-lidarr-extended](https://github.com/RandomNinjaAtk/docker-lidarr-extended) - lidarr-extended :: Lidarr application packaged with multiple scripts to provide additional functionality
 - [Generator/tautulli2trakt](https://github.com/Generator/tautulli2trakt) - A companion script for Tautulli to automatically scrobble media to Trakt.tv
