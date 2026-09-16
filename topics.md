@@ -275,6 +275,7 @@
 
 ## others 
 
+- [nonbili/meron](https://github.com/nonbili/meron) - Fast/secure email client with kanban and chat views.
 - [Mudit200408/m3e_dismissible](https://github.com/Mudit200408/m3e_dismissible) - 
 - [RhysFox/webfonts](https://github.com/RhysFox/webfonts) - 
 - [a35hie/Fonts](https://github.com/a35hie/Fonts) - A collection of hosted web fonts and stylesheets.
