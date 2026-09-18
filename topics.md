@@ -125,6 +125,7 @@
 ## csharp 
 
 - [SamsidParty/TopNotify](https://github.com/SamsidParty/TopNotify) - The Ultimate Notification Customization Tool For Windows
+- [CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - Source code for 800+ C# and .NET articles from code-maze.com. Every article is a runnable solution, most with tests.
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 
 ## css 
@@ -159,6 +160,7 @@
 ## dotnet 
 
 - [altmann/FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
+- [CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - Source code for 800+ C# and .NET articles from code-maze.com. Every article is a runnable solution, most with tests.
 - [ptr727/PlexCleaner](https://github.com/ptr727/PlexCleaner) - Utility to optimize media files for Direct Play in Plex, Emby, Jellyfin, etc.
 
 ## electron 
@@ -316,7 +318,6 @@
 - [pballasiotes/pureParallax](https://github.com/pballasiotes/pureParallax) - A vanilla JS parallax plugin for parallaxing elements and backgrounds with easy implementation and extensive options.
 - [yitengjun/ukiyo-js](https://github.com/yitengjun/ukiyo-js) - ⛰️ Dynamic, modern, and efficient background parallax effect.
 - [warrengalyen/shifty](https://github.com/warrengalyen/shifty) - Simple JavaScript Library to add parallax image effect to background-image
-- [CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - The main repository for all the Code Maze guides
 - [maximzhurkin/jquery-scrolla](https://github.com/maximzhurkin/jquery-scrolla) - jQuery plugin for reveal animations when scrolling
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [mycreatesite/Textyle.js](https://github.com/mycreatesite/Textyle.js) - A simple text effect with jQuery.
